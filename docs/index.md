@@ -1,9 +1,9 @@
-> Mariia Kaminskaia
-> March 1, 2023
-> IT FDN 110 A Wi 23: Foundations Of Programming: Python
-> Assignment_07
-> Link to GitHub: https://github.com/moriia/IntroToProg-Python-Mod07 
-> Link to GitHub webpage: https://moriia.github.io/IntroToProg-Python-Mod07/
+ Mariia Kaminskaia
+ March 1, 2023
+ IT FDN 110 A Wi 23: Foundations Of Programming: Python
+ Assignment_07
+ Link to GitHub: https://github.com/moriia/IntroToProg-Python-Mod07 
+ Link to GitHub webpage: https://moriia.github.io/IntroToProg-Python-Mod07/
 
 # Pickling and Exception Handling in Python
 
@@ -18,4 +18,6 @@ As a part of this assignment, I had to create a script that will write and read 
 
 ### Pickling in Python
 “Pickling” is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream (from a binary file or bytes-like object) is converted back into an object hierarchy (source: [pickle — Python object serialization](https://docs.python.org/3/library/pickle.html#:~:text=%E2%80%9CPickling%E2%80%9D%20is%20the%20process%20whereby,back%20into%20an%20object%20hierarchy).) There is a built-in pickle library in python (“pickle”), to use it firstly it should be imported (**Figure 1**).
+
+
 

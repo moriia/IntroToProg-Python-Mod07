@@ -27,7 +27,7 @@ As a part of this assignment, I had to create a script that will write and read 
 ### Pickling in Python
 “Pickling” is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream (from a binary file or bytes-like object) is converted back into an object hierarchy (source: [pickle — Python object serialization](https://docs.python.org/3/library/pickle.html#:~:text=%E2%80%9CPickling%E2%80%9D%20is%20the%20process%20whereby,back%20into%20an%20object%20hierarchy).) There is a built-in pickle library in python (“pickle”), to use it firstly it should be imported (**Figure 1**).
 
-![Figure 1. Importing a pickle library.](./assets/images/png1.png)
+![Figure 1. Importing a pickle library.](../assets/images/png1.png)
 
 **Figure 1**. Importing a pickle library.
 

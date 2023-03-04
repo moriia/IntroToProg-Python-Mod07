@@ -6,9 +6,9 @@ IT FDN 110 A Wi 23: Foundations Of Programming: Python
 
 Assignment_07 
 
-Link to GitHub: https://github.com/moriia/IntroToProg-Python-Mod07   
+[Link to GitHub](https://github.com/moriia/IntroToProg-Python-Mod07)   
 
-Link to GitHub webpage: https://moriia.github.io/IntroToProg-Python-Mod07/  
+[Link to this GitHub webpage](https://moriia.github.io/IntroToProg-Python-Mod07)
 
 
 

@@ -1,9 +1,9 @@
-Mariia Kaminskaia
-March 1, 2023
-IT FDN 110 A Wi 23: Foundations Of Programming: Python
-Assignment_07
-Link to GitHub: https://github.com/moriia/IntroToProg-Python-Mod07 
-Link to GitHub webpage: https://moriia.github.io/IntroToProg-Python-Mod07/
+Mariia Kaminskaia  **Enter**
+March 1, 2023   **Enter**
+IT FDN 110 A Wi 23: Foundations Of Programming: Python   **Enter**
+Assignment_07  **Enter**
+Link to GitHub: https://github.com/moriia/IntroToProg-Python-Mod07   **Enter**
+Link to GitHub webpage: https://moriia.github.io/IntroToProg-Python-Mod07/  **Enter**
 
 # Pickling and Exception Handling in Python
 

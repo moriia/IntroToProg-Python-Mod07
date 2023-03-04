@@ -50,7 +50,7 @@ Let’s take a look at the main body of the script I wrote (**Figure 3**).  The 
 
 As you can see in the **Figure 3**, at the beginning of the script I load data from the file and assign the data existing in the list to the variable ‘paycheck_lst’ (list of items declared at the beginning of the script). As soon as data is displayed, I display to the user a menu of options (**Figure 4**) that he/she can perform using the program. After the user sees the options, he/she is supposed to enter a value according to the existing option.
 
-![Figure 4. The function ‘print_main_menu’ displays options the user can perform using the program](/assets/png4.png)
+![Figure 4. The function ‘print_main_menu’ displays options the user can perform using the program](/images/png4.png)
 
 **Figure 4**. The function ‘print_main_menu’ displays options the user can perform using the program
 
